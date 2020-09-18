@@ -21,7 +21,10 @@
         "drupal/core-recommended": "^8.9",
         "drupal/core-vendor-hardening": "^8.9",
         "drupal/admin_toolbar": "^2.2",
-        "drupal/pathauto": "^1.6"
+        "drupal/pathauto": "^1.6",
+        "drupal/redirect": "^1.6",
+        "drupal/simple_sitemap": "^3.7",
+        "drupal/metatag": "^1.14"
     },
     "require-dev": {
     },
